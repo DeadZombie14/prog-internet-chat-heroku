@@ -1,7 +1,6 @@
-# React Firebase Super Chat
+# Chat en vivo con node, react & firebase
 
-A simple fullstack chat demo with React and Firebase. 
+Requiere una cuenta de google para chatear,
 
-Watch on full [React Firebase Chat Tutorial](https://youtu.be/zQyrwxMPm88) on YouTube. 
-
-[Live demo](https://fireship-demos.web.app/)
+hacer npm install para reconstruir librerias 
+y npm run start para iniciarlo
